@@ -1,0 +1,8 @@
+
+// Comando para pegar o evento da tecla pressionada, a do enter é keyCode === 13, para descobrir é so dar console.log(e)
+
+inputTarefa.addEventListener('keypress', (e) => {
+  if (e.keyCode === 13) {
+    console.log('ENTER pressionado')
+  }
+})
