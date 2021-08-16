@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":";;;;;AAAA;AACA;AACA;AACAA,OAAO,CAACC,GAAR,CAAY,SAAZ,E","sources":["webpack://WebpackModel/./src/index.js"],"sourcesContent":["//\r\n//\r\n//\r\nconsole.log('Linha 4')"],"names":["console","log"],"sourceRoot":""}
